@@ -1,2 +1,2 @@
-# axelgraphics.github.io
+# Axel
 Web Site
